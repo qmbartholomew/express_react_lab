@@ -31,4 +31,5 @@ app.get("/about", (req, res) => {
 });
 
 /*          SERVER LISTENER         */
-app.listen(1337, () => console.log("listening on port 1337"))
+const PORT = process.env.PORT
+app.listen(PORT, () =>  console.log(`Listening on port ${PORT}`))
