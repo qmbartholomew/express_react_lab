@@ -1,10 +1,15 @@
 /*          DEPENDENCIES            */
 const express = require('express')
+const cors = require('cors')
+const morgan = require('morgan')
+
 
 /*          APPLICATION OBJECT          */
 const app = express()
 
 /*          MIDDLEWARE          */
+app.use(cors())
+app.use(morgan('dev'))
 app.use(express.json()) // Parse json bodies, and make req.body
 
 /*          DATA            */
