@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Basketball Trivia",
+      "live": "https://seir-penguin-project-1.onrender.com/",
+      "git": "https://github.com/tazmancooks/SEIR-Penguin-Project1",
+      "image": "https://cdn.discordapp.com/attachments/668856899503915047/907896881051475998/Screen_Shot_2021-11-09_at_11.37.57_PM.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Inventory Tracker",
+      "live": "https://qbproject-2.herokuapp.com/",
+      "git": "https://github.com/tazmancooks/Project_2",
+      "image": "https://cdn.discordapp.com/attachments/668856899503915047/907900946527440916/Screen_Shot_2021-11-09_at_11.54.05_PM.png"
     }
   ]
